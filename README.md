@@ -13,7 +13,7 @@ By [Himanshu Singh](https://github.com/HimanshuSingh0495) · Website: https://hi
 | <img src="assets/tarot-table/icon.png" width="64"> | **Tarot Table: Reader's Kit** | A reading table for professional tarot readers: 78 cards, three spreads, a private reader console | In App Review |
 | <img src="assets/duo-mentalism/icon.png" width="64"> | **Duo Mentalism Kit** | Close-up mentalism effects where the phone keeps the performer's secret | In App Review |
 | <img src="assets/duoboard/icon.png" width="64"> | **DuoBoard: Mood Boards** | Mood boards and client presentations for interior designers, with private pricing and proposals | In App Review |
-| <img src="assets/listing-table/icon.png" width="64"> | **Listing Table** | A listing presentation for real estate agents at the seller's kitchen table | Coming soon |
+| <img src="assets/listing-table/icon.png" width="64"> | **Listing Table** | A listing presentation for real estate agents at the seller's kitchen table | In App Review |
 | <img src="assets/duospeak/icon.png" width="64"> | **DuoSpeak: Speech Practice** | Articulation practice for speech therapy sessions, with scoring kept on the clinician's side | In development |
 | <img src="assets/boothlead/icon.png" width="64"> | **BoothLead Duo** | Trade-show lead capture: visitors enter their own details, reps keep private notes | In development |
 
